@@ -1,6 +1,6 @@
 # LiveCoding sur Git
 
-## Initialiser un dépôt
+## Initialiser un dépôt (en local)
 
 ```
 git init
