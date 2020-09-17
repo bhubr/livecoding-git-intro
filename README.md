@@ -1,5 +1,11 @@
 # LiveCoding sur Git
 
+## Initialiser un dépôt
+
+```
+git init
+```
+
 ## Ajouter un fichier inconnu (untracked = non suivi)
 
 ```
