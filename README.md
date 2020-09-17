@@ -1,4 +1,15 @@
 # LiveCoding sur Git
 
-* On a fait un premier commit.
-* On va en faire un deuxième.
+## Ajouter un fichier inconnu (untracked = non suivi)
+
+```
+git add nomdufichier.txt
+git commit
+```
+
+## Prendre en compte les modifications d'un fichier
+
+```
+git add nomdufichier.txt
+git commit
+```
